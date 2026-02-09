@@ -1,5 +1,7 @@
 # SpendWise - AI-Powered Expense Tracker
 
+**Live Demo:** https://v0-financial-management-app-tau-seven.vercel.app/dashboard
+
 A modern, colorful expense tracking application for young adults with real-time analytics, interactive pie charts, and an AI-powered money coach to help make better financial decisions.
 
 ## ✨ Features
