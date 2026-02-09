@@ -33,6 +33,14 @@ A modern, colorful expense tracking application for young adults with real-time 
 - **AI**: Vercel AI SDK with GPT-4o-mini
 - **State**: React hooks + SWR patterns
 
+## Backend
+
+SpendWise uses a serverless backend powered by:
+- Supabase (PostgreSQL, Auth, Row-Level Security)
+- Next.js API Routes (`/app/api`)
+
+No separate backend service is required for the MVP.
+
 ## 📁 Project Structure
 
 ```
