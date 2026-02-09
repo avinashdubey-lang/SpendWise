@@ -131,12 +131,6 @@ Ask questions like:
 - Education
 - Other
 
-## 📱 Responsive Breakpoints
-
-- Mobile: < 640px
-- Tablet: 640px - 1024px
-- Desktop: > 1024px
-
 ## 🚀 Deployment
 
 ### Deploy to Vercel (Recommended)
